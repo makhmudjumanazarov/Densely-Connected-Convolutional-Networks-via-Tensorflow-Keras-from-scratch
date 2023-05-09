@@ -1,4 +1,4 @@
-# Building InceptionV1(GoogLeNet) model using Tensorflow(TF) from scratch
+# Creating DenseNet Networks(DenseNet121, DenseNet169, DenseNet201 and DenseNet264) with Tensorflow
 
 ### Building an InceptionV1(GoogLeNet)
 
