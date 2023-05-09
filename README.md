@@ -2,7 +2,7 @@
 In this repository, we will look at how to create DenseNet architectures from scratch using Tensorflow.
 <!-- ![DenseNet_layers](/images/DenseNet_layers.png) -->
 <div style="text-align:center;">
-    <img src="![DenseNet_layers](/images/DenseNet_layers.png" style="width:900px;height:450px;" />
+    <img src="images/DenseNet_layers.png" style="width:900px;height:450px;" />
     <br>
     <caption><center> <u> <font color='black'> <b></b>  </u><font color='black'><b>The DenseNet Architectures</b></center></caption>
 </div>
