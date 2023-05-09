@@ -1,6 +1,11 @@
 ## Creating DenseNet Networks(DenseNet121, DenseNet169, DenseNet201 and DenseNet264) with Tensorflow
 In this repository, we will look at how to create DenseNet architectures from scratch using Tensorflow.
-![DenseNet_layers](/images/DenseNet_layers.png)
+<!-- ![DenseNet_layers](/images/DenseNet_layers.png) -->
+<div style="text-align:center;">
+    <img src="![DenseNet_layers](/images/DenseNet_layers.png" style="width:900px;height:450px;" />
+    <br>
+    <caption><center> <u> <font color='black'> <b></b>  </u><font color='black'><b>The DenseNet Architectures</b></center></caption>
+</div>
 #### Building an InceptionV1(GoogLeNet)
 
 - InceptionV1(GoogLeNet) is a deep convolutional neural network that was proposed by Szegedy et al. This network won the ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC-2014) where 92.3% classification performance was achieved. In particular, this model was designed in a special architecture that allows for increasing the depth and width of the network but keeping the computing resource.
