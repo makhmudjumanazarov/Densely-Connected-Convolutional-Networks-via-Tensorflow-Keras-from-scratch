@@ -24,5 +24,5 @@ This image: A deep DenseNet with three dense blocks. The layers between two adja
 #### GoogLeNet network with all the bells and whistles
 ![GoogLeNet](/images/Inception_V1(GoogleNet).png)
 
-I am trying to build this architecture of the GoogLeNet via tensorflow framework from scratch. More at the <a href= "https://github.com/makhmudjumanazarov/Inception-V1-GoogleNet-Architecture-via-Tensorflow/blob/main/Inception%20V1.ipynb">link below</a>...
+I am trying to build this architecture of the GoogLeNet via tensorflow framework from scratch. More at the <a href= "https://github.com/makhmudjumanazarov/Densely-Connected-Convolutional-Networks-via-Tensorflow-Keras-from-scratch/blob/main/DenseNet%20Networks.ipynb">link below</a>...
 
