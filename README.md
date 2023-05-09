@@ -4,6 +4,12 @@ In this repository, we will look at how to create DenseNet architectures from sc
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="images/DenseNet_layers.png" style="width:604px;height:423px;" />
 </div>
+This Figure: A 5-layer dense block with a growth rate of k = 4. Each layer takes all preceding feature-maps as input.
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="images/A_deep_DenseNet_with_three_dense_blocks.jpg" style="width:1280px;height:196px;" />
+</div>
+This image: A deep DenseNet with three dense blocks. The layers between two adjacent blocks are referred to as transition layers and change feature-map sizes via convolution and pooling.
 
 
 
