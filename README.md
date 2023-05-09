@@ -3,9 +3,9 @@ In this repository, we will look at how to create DenseNet architectures from sc
 
 <div style="text-align:center;">
     <img src="images/DenseNet_layers.png" style="width:604px;height:423px;" />
-    <br>
-    <caption><center> <u> <font color='black'></u><font color='black'><b>Various blocks and layers in DenseNet</b></center></caption>
+    <p style="text-align:center;"><u><b>Various blocks and layers in DenseNet</b></u></p>
 </div>
+
 
         
 #### Building an InceptionV1(GoogLeNet)
