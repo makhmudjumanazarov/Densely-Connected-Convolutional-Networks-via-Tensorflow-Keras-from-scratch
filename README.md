@@ -3,9 +3,7 @@ In this repository, we will look at how to create DenseNet architectures from sc
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="images/DenseNet_layers.png" style="width:604px;height:423px;" />
-    <img src="images/A_deep_DenseNet_with_three_dense_blocks.jpg" style="width:604px;height:423px;" />
-    <div style="text-align: center;">
-        <b>Various blocks and layers in DenseNet</b>
+    <div style="text-align: center;"> <b>Various blocks and layers in DenseNet</b>
     </div>
 </div>
 
