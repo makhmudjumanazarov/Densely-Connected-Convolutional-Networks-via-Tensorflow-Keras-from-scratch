@@ -1,11 +1,12 @@
 ## Creating DenseNet Networks(DenseNet121, DenseNet169, DenseNet201 and DenseNet264) with Tensorflow
 In this repository, we will look at how to create DenseNet architectures from scratch using Tensorflow.
-<!-- ![DenseNet_layers](/images/DenseNet_layers.png) -->
+
 <div style="text-align:center;">
     <img src="images/DenseNet_layers.png" style="width:600px;height:450px;" />
     <br>
     <caption><center> <u> <font color='black'></u><font color='black'><b>Various blocks and layers in DenseNet</b></center></caption>
 </div>
+
         
 #### Building an InceptionV1(GoogLeNet)
 
