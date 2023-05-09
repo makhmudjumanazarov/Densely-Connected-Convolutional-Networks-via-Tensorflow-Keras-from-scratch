@@ -1,4 +1,5 @@
 ## Creating DenseNet Networks(DenseNet121, DenseNet169, DenseNet201 and DenseNet264) with Tensorflow
+In this repository, we will look at how to create DenseNet architectures from scratch using Tensorflow.
 
 #### Building an InceptionV1(GoogLeNet)
 
