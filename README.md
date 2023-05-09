@@ -23,5 +23,5 @@ This image: A deep DenseNet with three dense blocks. The layers between two adja
 
 - And you can see many more differences compared to other architectures in the <a href= "https://arxiv.org/pdf/1608.06993.pdf">link</a> below.
 
-I am trying to build this architecture of the DenseNet Networks via tensorflow framework from scratch. More at the <a href= "https://github.com/makhmudjumanazarov/Densely-Connected-Convolutional-Networks-via-Tensorflow-Keras-from-scratch/blob/main/DenseNet%20Networks.ipynb">link </a> below...
+Using the Tensorflow framework, I am building the architecture of the DenseNet Network. More at the <a href= "https://github.com/makhmudjumanazarov/Densely-Connected-Convolutional-Networks-via-Tensorflow-Keras-from-scratch/blob/main/DenseNet%20Networks.ipynb">link </a> below...
 
