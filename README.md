@@ -11,6 +11,8 @@ This Figure: A 5-layer dense block with a growth rate of k = 4. Each layer takes
 </div>
 This image: A deep DenseNet with three dense blocks. The layers between two adjacent blocks are referred to as transition layers and change feature-map sizes via convolution and pooling.
 
+#### Building The DenseNet Networks
+
 - DenseNet (Dense Convolutional Network) is a type of deep learning architecture that has gained popularity due to its ability to mitigate the vanishing gradient problem and improve the flow of information across the network. It was introduced in the paper "Densely Connected Convolutional Networks" by Gao Huang, Zhuang Liu, and Kilian Q. Weinberger in 2017.
 
 - One of the key advantages of DenseNet is that it promotes feature reuse by connecting all layers directly with each other in a dense way. In traditional convolutional neural networks (CNNs), each layer is connected only to the next layer, resulting in a deep but relatively narrow network. DenseNet, on the other hand, connects each layer to every subsequent layer, resulting in a dense and deep network. This creates a more efficient flow of information, allowing the network to extract features more effectively and with fewer parameters.
@@ -19,7 +21,7 @@ This image: A deep DenseNet with three dense blocks. The layers between two adja
 
 - Due to these advantages, DenseNet has been successfully applied to a wide range of computer vision tasks, such as image classification, object detection, segmentation, and more.
         
-#### Building an InceptionV1(GoogLeNet)
+
 
 - InceptionV1(GoogLeNet) is a deep convolutional neural network that was proposed by Szegedy et al. This network won the ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC-2014) where 92.3% classification performance was achieved. In particular, this model was designed in a special architecture that allows for increasing the depth and width of the network but keeping the computing resource.
 
