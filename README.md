@@ -21,8 +21,7 @@ This image: A deep DenseNet with three dense blocks. The layers between two adja
 
 - Due to these advantages, DenseNet has been successfully applied to a wide range of computer vision tasks, such as image classification, object detection, segmentation, and more.
 
-#### GoogLeNet network with all the bells and whistles
-![GoogLeNet](/images/Inception_V1(GoogleNet).png)
+- And you can see many more differences compared to other architectures in the <a href= "https://arxiv.org/pdf/1608.06993.pdf">link</a> below.
 
-I am trying to build this architecture of the DenseNet Networks via tensorflow framework from scratch. More at the <a href= "https://github.com/makhmudjumanazarov/Densely-Connected-Convolutional-Networks-via-Tensorflow-Keras-from-scratch/blob/main/DenseNet%20Networks.ipynb">link below</a>...
+I am trying to build this architecture of the DenseNet Networks via tensorflow framework from scratch. More at the <a href= "https://github.com/makhmudjumanazarov/Densely-Connected-Convolutional-Networks-via-Tensorflow-Keras-from-scratch/blob/main/DenseNet%20Networks.ipynb">link </a> below...
 
